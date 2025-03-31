@@ -48,7 +48,7 @@ To deploy Frappe/ERPNext, first, you need to build the Docker image.
 
 ## 2. Compose the Docker Image
 
-Once the Docker image is built, you can use Docker Compose to start the services. Make sure to configure your `docker-compose.yml` to match the services you want to deploy (e.g., Frappe, Redis, MariaDB, etc.).
+Once the Docker image is built, you can use Docker Compose to start the services.
 
 ## 3. Ensure Minikube and Docker Are Running
 
